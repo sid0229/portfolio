@@ -18,10 +18,6 @@ personal portfolio site for siddhant gahlot
 - skill progress bars
 - contact section
 
-## setup
+## credits
+linkpad.lol
 
-just open index.html in a browser or host it somewhere
-
-## live
-
-drop the files on netlify/vercel/github pages and you're good
